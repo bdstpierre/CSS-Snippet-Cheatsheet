@@ -3,6 +3,7 @@
 # <Your-Project-Title>
 ## Description
 This project was completed to explore the use of CSS's powerfu flexbox utilities.
+https://bdstpierre.github.io/CSS-Snippet-Cheatsheet/
 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
